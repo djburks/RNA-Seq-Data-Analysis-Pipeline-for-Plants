@@ -1,0 +1,9 @@
+Salmon/quants/CN1/quant.sf	CN1
+Salmon/quants/CN2/quant.sf	CN2
+Salmon/quants/CN3/quant.sf	CN3
+Salmon/quants/MU1/quant.sf	MU1
+Salmon/quants/MU2/quant.sf	MU2
+Salmon/quants/MU3/quant.sf	MU3
+Salmon/quants/WT1/quant.sf	WT1
+Salmon/quants/WT2/quant.sf	WT2
+Salmon/quants/WT3/quant.sf	WT3

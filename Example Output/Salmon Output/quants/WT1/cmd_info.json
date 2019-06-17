@@ -1,0 +1,10 @@
+{
+    "salmon_version": "0.8.2",
+    "index": "salmon_index",
+    "libType": "A",
+    "mates1": "WT1_1_Trimmed.fq",
+    "mates2": "WT1_2_Trimmed.fq",
+    "threads": "1",
+    "output": "quants/WT1",
+    "auxDir": "aux_info"
+}

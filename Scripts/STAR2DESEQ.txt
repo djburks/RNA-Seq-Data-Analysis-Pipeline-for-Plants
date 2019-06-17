@@ -1,0 +1,9 @@
+STAR/CN1/ReadsPerGene.out.tab	CN1
+STAR/CN2/ReadsPerGene.out.tab	CN2
+STAR/CN3/ReadsPerGene.out.tab	CN3
+STAR/MU1/ReadsPerGene.out.tab	MU1
+STAR/MU2/ReadsPerGene.out.tab	MU2
+STAR/MU3/ReadsPerGene.out.tab	MU3
+STAR/WT1/ReadsPerGene.out.tab	WT1
+STAR/WT2/ReadsPerGene.out.tab	WT2
+STAR/WT3/ReadsPerGene.out.tab	WT3
