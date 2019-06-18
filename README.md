@@ -14,7 +14,7 @@ As you progress through the tutorial pipeline, you can compare your resulting ou
 
 ## Scripts
 
-Scripts that can format your genecount data into import-friendly tables for DESeq2.  Instructions for use are provided in the tutorial.
+Scripts that can format your genecount data into import-friendly tables for DESeq2.  Instructions for use are provided in the tutorial.  The STAR2DESEQ.txt and Salmon2DESEQ.txt files need to be updated to reflect your own local file organization.  The first column should contain the file-path for your STAR/Salmon count files.  The second column should contain the condition and a single-digit for the replicate number.  For simplicity, please avoid using spaces in your file paths and condition titles.
 
 ## Formatted Count Data
 
