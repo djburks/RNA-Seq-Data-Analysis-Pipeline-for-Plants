@@ -1,6 +1,14 @@
 # RNA-Seq Data Analysis Pipeline for Plants
 
-Data, scripts, and example output to accompany "RNA-Seq Data Analysis Pipeline for Plants: Transcriptome Assembly, Alignment, and Differential Expression Analysis" by DJ Burks and RK Azad.
+Data, scripts, and example output to accompany "RNA-Seq Data Analysis Pipeline for Plants: Transcriptome Assembly
+, Alignment, and Differential Expression Analysis" by DJ Burks and RK Azad.
+
+## Installation Notes
+
+It is now recommneded to install the software for this tutorial using BioConda.  Installation instructions for bioconda are available at https://bioconda.github.io/
+
+Once installed, it is recommended to make an environment for this tutorial (e.g. "rnaseqtutorial") and install all dependencies in a single step:
+conda create -n rnaseqtutorial python=3.6 fastqc trimmomatic star salmon bioconductor-deseq2 bioconductor-pcaexplorer sra-tools jellyfish bowtie2
 
 ## Raw_Reads
 
